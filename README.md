@@ -21,5 +21,9 @@ node http.js url proxylist.txt time method
 
 
 
-donate:
+donate
+
+
+
+
 BTC:3FxGy31NZjc7pkpweZLQU1btkSPUt3tnBi
