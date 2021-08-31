@@ -1,5 +1,8 @@
 
 This script was made my Darlingsh1337 i just deobfuscated it
+
+
+
 #Installation Tutoriel for Skido
 
 INSTALL NODEJ SAND NPM
